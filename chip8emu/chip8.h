@@ -8,8 +8,8 @@
 /*
  * Chip8
  *
- * The main Chip 8 CPU. All game related logic and instructions live within
- * the CPU. The CPU can be instantiated with an interface of choice.
+ * The main Chip 8 CPU. All logic and instructions live within
+ * the CPU.
  */
 
 
